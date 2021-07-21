@@ -183,15 +183,15 @@ div {
     display: inline;
     text-indent: .15em; }
     .post .post-meta:before {
-      font-family: "FontAwesome";
+      font-family: "source-han-serif-sc", serif,"FontAwesome";
       content: "\f073";
       padding-right: 0.3em; }
     .post .post-meta .category:before {
-      font-family: "FontAwesome";
+      font-family: "source-han-serif-sc", serif,"FontAwesome";
       content: "\f07c";
       padding-right: 0.3em; }
     .post .post-meta #busuanzi_value_page_pv:before {
-      font-family: "FontAwesome";
+      font-family: "source-han-serif-sc", serif,"FontAwesome";
       content: "\f024";
       padding-right: 0.3em; }
   .post .ds-thread-count {
@@ -202,7 +202,7 @@ div {
     display: inline;
     text-indent: .15em; }
     .post .ds-thread-count:before {
-      font-family: "FontAwesome";
+      font-family: "source-han-serif-sc", serif,"FontAwesome";
       content: "\f0e5";
       padding-right: 0.3em; }
     .post .ds-thread-count:hover {
@@ -215,7 +215,7 @@ div {
     display: inline;
     text-indent: .15em; }
     .post .disqus-comment-count:before {
-      font-family: "FontAwesome";
+      font-family: "source-han-serif-sc", serif,"FontAwesome";
       content: "\f0e5";
       padding-right: 0.3em; }
     .post .disqus-comment-count:hover {
@@ -246,7 +246,7 @@ div {
         margin: 0 5px;
         padding: 0 5px;
         background: #f7f8f8;
-        font-family: Menlo, Consolas, monospace !important; }
+        font-family: "source-han-serif-sc", serif,Menlo, Consolas, monospace !important; }
       .post .post-content p a {
         color: #01579f;
         padding-bottom: 2px;
@@ -283,7 +283,7 @@ div {
         margin: 0 5px;
         padding: 0px 5px;
         background: #f7f8f8;
-        font-family: Menlo, Consolas, monospace !important; }
+        font-family: "source-han-serif-sc", serif,Menlo, Consolas, monospace !important; }
       .post .post-content ul a,
       .post .post-content ol a {
         color: #01579f;
@@ -343,7 +343,7 @@ div {
       float: left; }
       .page-navigator a.prev:before,
       .page-navigator span.prev:before {
-        font-family: "FontAwesome";
+        font-family: "source-han-serif-sc", serif,"FontAwesome";
         content: "\f100";
         padding-right: 0.3em; }
     .page-navigator a.next,
@@ -351,7 +351,7 @@ div {
       float: right; }
       .page-navigator a.next:after,
       .page-navigator span.next:after {
-        font-family: "FontAwesome";
+        font-family: "source-han-serif-sc", serif,"FontAwesome";
         content: "\f101";
         padding-left: 0.3em; }
   .page-navigator .current {
@@ -565,7 +565,7 @@ pre {
   text-align: left; }
 
 #process span.number {
-  font-family: 'Georgia', serif, Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
+  font-family: "source-han-serif-sc", serif,'Georgia', serif, Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   font-style: italic;
   font-size: 20px;
   line-height: 0;
@@ -592,7 +592,7 @@ pre {
   transform: rotate(180deg); }
 
 .timeline-label p {
-  font-family: Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
+  font-family: "source-han-serif-sc", serif,Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   margin-bottom: 3px; }
 
 #process .timeline-centered .timeline-entry .timeline-entry-inner {
@@ -690,7 +690,7 @@ pre {
 #process .present,
 #process .born {
   font-size: 14px;
-  font-family: 'Georgia', serif, Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
+  font-family: "source-han-serif-sc", serif,'Georgia', serif, Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   font-style: italic;
   color: #333;
   padding: 10px;
@@ -779,7 +779,7 @@ pre {
   border-radius: 5px;
   float: right; }
   .readmore a:after {
-    font-family: "FontAwesome";
+    font-family: "source-han-serif-sc", serif,"FontAwesome";
     content: "\f101";
     padding-left: 0.3em; }
   .readmore a:hover {
@@ -808,7 +808,7 @@ figure.highlight,
   .codeblock .code,
   .codeblock .tag {
     background-color: inherit;
-    font-family: Menlo, Consolas, monospace;
+    font-family: "source-han-serif-sc", serif,Menlo, Consolas, monospace;
     border: none;
     padding: 0;
     margin: 0;
@@ -854,7 +854,7 @@ figure.highlight,
 
 .gist .line,
 .gist .line-number {
-  font-family: Menlo, Consolas, monospace;
+  font-family: "source-han-serif-sc", serif,Menlo, Consolas, monospace;
   font-size: 1em;
   margin: 0 0 5px 0;
   user-select: none; }
@@ -1324,13 +1324,13 @@ figure.highlight,
     .post-nav a.pre {
       float: left; }
       .post-nav a.pre:before {
-        font-family: "FontAwesome";
+        font-family: "source-han-serif-sc", serif,"FontAwesome";
         content: "\f0d9";
         padding-right: 0.3em; }
     .post-nav a.next {
       float: right; }
       .post-nav a.next:after {
-        font-family: "FontAwesome";
+        font-family: "source-han-serif-sc", serif,"FontAwesome";
         content: "\f0da";
         padding-left: 0.3em; }
     .post-nav a:hover {
@@ -1393,7 +1393,7 @@ table {
   float: right;
   margin-left: 20px; }
   .article-share-link:before {
-    font-family: "FontAwesome";
+    font-family: "source-han-serif-sc", serif,"FontAwesome";
     content: "\f064";
     padding-right: 6px; }
 
@@ -1436,7 +1436,7 @@ table {
   text-shadow: 0 1px #fff; }
   .article-share-element:before, .article-share-twitter:before, .article-share-facebook:before, .article-share-weibo:before, .article-share-qrcode:before {
     font-size: 20px;
-    font-family: "FontAwesome";
+    font-family: "source-han-serif-sc", serif,"FontAwesome";
     width: 20px;
     height: 20px;
     position: absolute;
